@@ -1,1 +1,11 @@
-# Docs
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <title>Microsoft Azure App Service - Welcome</title>
+  </head>
+  <body>
+    <h1 style="font-size:30px">
+      Hello from <span style="color:blue;">North Europe</span>!
+	</h1>
+  </body>
+</html>
